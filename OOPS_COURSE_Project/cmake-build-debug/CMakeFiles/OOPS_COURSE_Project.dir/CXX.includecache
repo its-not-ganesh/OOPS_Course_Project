@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/main.cpp
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+
